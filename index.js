@@ -29,7 +29,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PUT Discounted prems & discord nitro"];
+const statusMessages = ["Discounted prems & discord nitro"];
 
 
 let currentIndex = 0;
