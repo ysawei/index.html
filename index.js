@@ -29,7 +29,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Discounted prems & discord nitro"];
+const statusMessages = [".gg/yeorin"];
 
 
 let currentIndex = 0;
