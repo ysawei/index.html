@@ -29,7 +29,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["yeorin helper""create tickets for orders"".gg/yeorin"];
+const statusMessages = ["yeorin helper","create tickets for orders",".gg/yeorin"];
 
 
 let currentIndex = 0;
